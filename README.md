@@ -1,5 +1,7 @@
 # ByD Digital Assistant
 
+For detailed steps along with details please refer to public blog  [Create ByD Sales Orders using Alexa](https://blogs.sap.com/2019/02/04/create-byd-sales-orders-using-alexa/)
+
 For detailed demo refer to video [Alexa Meets SAP Business ByDesign](https://youtu.be/40DSBibkL50) and For detailed blog refer to public blog [Alexa Meets SAP Business ByDesign](https://blogs.sap.com/2019/01/22/alexa-meets-sap-business-bydesign/)
 
 ## Pre Requisites
@@ -26,10 +28,7 @@ For detailed demo refer to video [Alexa Meets SAP Business ByDesign](https://you
 $ cf push
 
 * Note: user can decide to use UserName and Password authentication , in that case user has to adapt the Authorization (request header of OData POST service call) webapplication coding accordingly
-```
-Restart your application (so it can read the new environment variables)
-```cmd
-$ cf restart BydDigitalAssistant2
+
 ```
 You will see your backend URL (to be used in the next step)
 
