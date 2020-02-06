@@ -2,7 +2,7 @@
 
 For detailed steps along with details please refer to public blog  [Create ByD Sales Orders using Alexa](https://blogs.sap.com/2019/02/04/create-byd-sales-orders-using-alexa/)
 
-For detailed demo refer to video [Alexa Meets SAP Business ByDesign](https://youtu.be/40DSBibkL50) and For detailed blog refer to public blog [Alexa Meets SAP Business ByDesign](https://blogs.sap.com/2019/01/22/alexa-meets-sap-business-bydesign/)
+For further more detailed demo refer to video [Alexa Meets SAP Business ByDesign](https://youtu.be/40DSBibkL50) and For detailed blog refer to public blog [Alexa Meets SAP Business ByDesign](https://blogs.sap.com/2019/01/22/alexa-meets-sap-business-bydesign/)
 
 ## Pre Requisites
 
